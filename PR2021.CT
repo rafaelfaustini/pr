@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Inflation"</Description>
+      <LastState Value="0.06196560711" RealAddress="7FF7D9CBB498"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+4203B498</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Interest Rate"</Description>
+      <LastState Value="0.200000003" RealAddress="7FF7D9CBB7E0"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+4203B7E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Growth Rate"</Description>
+      <LastState Value="0.01106512547" RealAddress="7FF7D9CCB87C"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+4204B87C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Unemployment Rate"</Description>
+      <LastState Value="0.05379760265" RealAddress="7FF7D9CE0388"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+42060388</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"Poverty Rate"</Description>
+      <LastState Value="0.06199813634" RealAddress="7FF7D9CD1044"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+42051044</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>

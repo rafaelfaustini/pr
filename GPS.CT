@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Inflation"</Description>
+      <LastState Value="0,01721455343" RealAddress="25D00978"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+25900978</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Inflation"</Description>
+      <LastState Value="0,01721455343" RealAddress="25D0097C"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+2590097C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Inflation"</Description>
+      <LastState Value="0,08671422303" RealAddress="46B5DFC8"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+4675DFC8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Taxa Juros"</Description>
+      <LastState Value="0,01099999994" RealAddress="286D9670"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+282D9670</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Taxa Juros"</Description>
+      <LastState Value="0,1899999529" RealAddress="46B5E2EC"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+4675E2EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Growth Rate"</Description>
+      <LastState Value="0,1220471263" RealAddress="46B5DFC0"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+4675DFC0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Uneployment Rate"</Description>
+      <LastState Value="0,04761636257" RealAddress="46B82DF8"/>
+      <VariableType>Float</VariableType>
+      <Address>_start.exe+46782DF8</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
